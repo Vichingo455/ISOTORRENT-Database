@@ -1,4 +1,4 @@
-# ISOTORRENT-Database
+# ISO TORRENT Database
 OSes ISOs on torrent format
 
 All torrents from archive.org
